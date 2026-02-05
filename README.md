@@ -135,6 +135,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Ray](https://www.ray.io/) - Unified framework for scaling AI and Python applications.
 - [Apache Flink](https://flink.apache.org/) - Stream and batch processing framework.
 - [Apache Beam](https://beam.apache.org/) - Unified programming model for batch and streaming.
+- [Asgarde](https://github.com/tosun-si/asgarde) - Java library for simplified error handling in Beam pipelines.
 
 ---
 
