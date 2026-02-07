@@ -47,7 +47,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 
 ### Commercial / Managed
 
-- [Boomi] (https://boomi.com/) - Modern data integration and agent management platform.
+- [Boomi](https://boomi.com/) - Modern data integration and agent management platform.
 - [Fivetran](https://www.fivetran.com/) - Automated data integration with 500+ connectors. Industry leader in managed ELT.
 - [Stitch](https://www.stitchdata.com/) - Simple, extensible ETL built for developers. Part of Talend.
 - [Hevo Data](https://hevodata.com/) - No-code data pipeline platform.
